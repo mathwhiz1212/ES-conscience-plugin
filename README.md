@@ -1,3 +1,5 @@
+# Endless Sky Conscience Plugin
+
 This plugin is meant to allow you to complete Endless Sky story lines without doing things you have an ethical problem with. For now, it just makes it so you don't need to drop a bomb on Zenith and kill civilians.
 
 If you'd rather grind then use a plugin, you can cap a bunch of Korath ships in Kor Ak'Mari and destroy the Sestor fleet that way.
