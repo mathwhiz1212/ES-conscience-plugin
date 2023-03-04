@@ -6,6 +6,22 @@ If you'd rather grind then use a plugin, you can cap a bunch of Korath ships in 
 
 If you take the Quarg ships anywhere other than the assigned planets and systems, they may or may not disappear.
 
+## Installing
+
+1. Download the plugin here: [https://github.com/mathwhiz1212/A-Coalition-At-War/releases](https://github.com/mathwhiz1212/A-Coalition-At-War/releases)
+
+2. Put the zip file in your plugins folder:
+
+Windows: `%APPDATA%\endless-sky\plugins/`
+
+Mac: `~/Library/ApplicationSupport/endless-sky/plugins/`
+
+Linux: `~/.local/share/endless-sky/plugins/`
+
+3. Decompress/"Unzip" the zip file.
+4. Start Endless Sky. You should be able to see "A Coalition at War" under Preferences > Plugins.
+5. If you have problems, open an issue.
+
 # Using the Plugin
 
 Install the plugin before you get to Hevru Hai. If you're already past that mission, try landing on Hevru Hai anyway. It might still work.
