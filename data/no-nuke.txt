@@ -10,7 +10,7 @@ mission "Wanderers: Sestor: Quarg Help 2B"
 		has "Wanderers: Sestor: Quarg Help 1: done"
 	on offer
 		conversation
-			`You take a risk and stick around for fifteen more minutes. Elias says "It's a miracle. There are eight more Quarg ships who volunteered to help," he says.`
+			`You take a risk and stick around for fifteen more minutes. Elias says "It's a miracle. There are four more Quarg ships who volunteered to help," he says.`
 			`	You thank him for his assistance, and hurry to fire up your ship and return to human space. Hopefully Danforth's base has not already been overrun in your absence.`
 				accept
 	npc accompany save
@@ -76,8 +76,8 @@ mission "Wanderers: Sestor: Farpoint Attack 2B"
 #    not "Farpoint"
 #    fail
 
-on fail
-	dialog `Essential Wanderer Mission failed because you did not go directly to Farpoint. Reload from a save if you want to complete the story line.`
+#on fail
+#	dialog `Essential Wanderer Mission failed because you did not go directly to Farpoint. Reload from a save if you want to complete the story line.`
 
 #On visit not Fairpoint, fail. Essential mission, reload from save.
 
